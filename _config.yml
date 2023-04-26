@@ -1,1 +1,10 @@
+title: Swiss Perspectives: Life, Work, and Hobbies of an Italian Engineer Abroad
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to "Swiss Perspectives," where an Italian engineer shares insights, stories, and experiences from living and working in Switzerland. 
+  Join me on this exciting journey as I navigate through the challenges and joys of being an expat, explore the Swiss way of life, delve into the world of technology, and indulge in my diverse hobbies. 
+  Get ready for a unique perspective on life, work, and hobbies from the picturesque landscapes of Switzerland!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://.camillacarta.ch" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  cartacamilla
+
 theme: minima
